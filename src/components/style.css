@@ -1,0 +1,11 @@
+.article-title {
+  color: #ffffff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.white-icon {
+  filter: brightness(0) invert(1); /* icona social bianca */
+}
